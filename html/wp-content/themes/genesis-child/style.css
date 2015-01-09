@@ -609,91 +609,7 @@ p.subscribe-to-comments {
 	margin: 0 0 15px;
 }
 
-/* venue snippets
------------------------------------------------------------- */
 
-	#venuesnippets {
-		border: 1px 1px #fff;
-		background-color: #eee;
-		font-size: 12px;
-		line-height: 16px;
-		padding: 8px;
-		overflow: hidden;
-	}
-
-	#venuesnippets #venuecontact,
-	#venuesnippets .post-ratings, 
-	#venuesnippets #venuedetails  {
-		font-size:  11px;
-		line-height: 14px;
-	}
-
-	#venuesnippets #venuedetails {
-		float: right;
-		width: 45%;
-		overflow: hidden;
-	}
-	#venuesnippets #venuecontact {
-		float: left;
-		width: 45%;
-		overflow: hidden;
-	}
-	#venuesnippets .entry-title a  {
-		font-size: 16px;
-		line-height: 20px
-	}
-	
-
-/* venue post
------------------------------------------------------------- */
-
-	#venuecontact, #venuedetails {
-		font-size: 14px;
-		line-height: 18px;
-		
-		
-		padding: 5px;
-		}
-		
-	#venuecontact {
-		width: 42%;
-		float: left;
-	}
-	#venuedetails {
-		float: none;
-	}
-	
-	
-	.venues img.venueimg {
-		width: 50%;
-		height: auto;
-		float: right;
-	}
-		
-	.post-ratings {
-		width: 50%;
-	}
-	
-	#map {
-		clear: both;
-	}
-	 
-	.hfeed>.type-venues>.entry-content {
-		clear: both;
-	}
-	.booking-header {
-		clear: both;
-		text-transform: uppercase;
-	}
-	
-	.venues .entry-title {
-		text-transform: uppercase;
-		color: #1D8AA4;
-		font-weight: bold;
-	}
-	.post-ratings-text {
-		display: none !important;
-	}
 /* Column Classes
 ------------------------------------------------------------ */
 
@@ -1485,8 +1401,9 @@ div.gform_wrapper .gform_footer {
 }
 
 
-/* !Custom
------------------------------------------------------------- */
+/* !CUSTOM */
+
+
 #title-area {
 	width: 100%;
 }
@@ -1503,6 +1420,94 @@ div.gform_wrapper .gform_footer {
 color: #1D8AA4;
 padding: 5px;
 }
+
+
+/* venue snippets
+------------------------------------------------------------ */
+
+	#venuesnippets {
+		border: 1px 1px #fff;
+		background-color: #eee;
+		font-size: 12px;
+		line-height: 16px;
+		padding: 8px;
+		overflow: hidden;
+	}
+
+	#venuesnippets #venuecontact,
+	#venuesnippets .post-ratings, 
+	#venuesnippets #venuedetails  {
+		font-size:  11px;
+		line-height: 14px;
+	}
+
+	#venuesnippets #venuedetails {
+		float: right;
+		width: 45%;
+		overflow: hidden;
+	}
+	#venuesnippets #venuecontact {
+		float: left;
+		width: 45%;
+		overflow: hidden;
+	}
+	#venuesnippets .entry-title a  {
+		font-size: 16px;
+		line-height: 20px
+	}
+	
+
+/* venue post
+------------------------------------------------------------ */
+
+	#venuecontact, #venuedetails {
+		font-size: 14px;
+		line-height: 18px;
+		
+		
+		padding: 5px;
+		}
+		
+	#venuecontact {
+		width: 42%;
+		float: left;
+	}
+	#venuedetails {
+		float: none;
+	}
+	
+	
+	.venues img.venueimg {
+		width: 50%;
+		height: auto;
+		float: right;
+	}
+		
+	.post-ratings {
+		width: 50%;
+	}
+	
+	#map {
+		clear: both;
+	}
+	 
+	.hfeed>.type-venues>.entry-content {
+		clear: both;
+	}
+	.booking-header {
+		clear: both;
+		text-transform: uppercase;
+	}
+	
+	.venues .entry-title {
+		text-transform: uppercase;
+		color: #1D8AA4;
+		font-weight: bold;
+	}
+	.post-ratings-text {
+		display: none !important;
+	}
+
 /* Smaller Screens
 ------------------------------------------------------------ */
 
