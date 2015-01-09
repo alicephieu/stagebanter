@@ -1,4 +1,0 @@
----------------------------------------------------------------------
-Version 1.1
-    - Added support for calling Picatcha API over SSL
-    - Added message upon adding Picatcha field if API keys haven't been entered
