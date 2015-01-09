@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<changelog xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2">
+  <version>2.0</version>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T22:55:40.792Z" timestamp="2012-03-03T22:55:40.792Z">
+    <change idref="t7" attribute="startConstraintDate" type="date" to="2001-02-03T13:00:00.000Z" resolved="yes"/>
+    <change idref="t8" attribute="startConstraintDate" type="date" from="2012-03-04T13:00:00.000Z" to="2001-02-03T13:00:00.000Z" resolved="yes"/>
+    <change idref="t8" attribute="resourceLeveledDate" type="date" from="2012-03-04T13:00:00.000Z" resolved="yes"/>
+    <change idref="t9" attribute="startConstraintDate" type="date" from="2012-03-04T13:00:00.000Z" to="2001-02-03T13:00:00.000Z" resolved="yes"/>
+    <change idref="t9" attribute="resourceLeveledDate" type="date" from="2012-03-04T13:00:00.000Z" resolved="yes"/>
+    <change idref="t10" attribute="startConstraintDate" type="date" from="2012-03-04T13:00:00.000Z" to="2001-02-03T13:00:00.000Z" resolved="yes"/>
+    <change idref="t10" attribute="resourceLeveledDate" type="date" from="2012-03-04T13:00:00.000Z" resolved="yes"/>
+    <change idref="t11" attribute="startConstraintDate" type="date" from="2012-03-04T13:00:00.000Z" to="2001-02-03T13:00:00.000Z" resolved="yes"/>
+    <change idref="t11" attribute="resourceLeveledDate" type="date" from="2012-03-04T13:00:00.000Z" resolved="yes"/>
+    <change idref="t12" attribute="startConstraintDate" type="date" from="2012-03-04T13:00:00.000Z" to="2001-02-03T13:00:00.000Z" resolved="yes"/>
+    <change idref="t12" attribute="resourceLeveledDate" type="date" from="2012-03-04T13:00:00.000Z" resolved="yes"/>
+    <change idref="t13" attribute="startConstraintDate" type="date" from="2012-03-04T13:00:00.000Z" to="2001-02-03T13:00:00.000Z" resolved="yes"/>
+    <change idref="t13" attribute="resourceLeveledDate" type="date" from="2012-03-04T13:00:00.000Z" resolved="yes"/>
+    <change idref="t14" attribute="startConstraintDate" type="date" from="2012-03-04T13:00:00.000Z" to="2001-02-03T13:00:00.000Z" resolved="yes"/>
+    <change idref="t14" attribute="resourceLeveledDate" type="date" from="2012-03-04T13:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:01:43.623Z" timestamp="2012-03-03T23:01:43.623Z">
+    <change idref="t1" attribute="startConstraintDate" type="date" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t2" attribute="startConstraintDate" type="date" from="2023-06-02T12:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t2" attribute="resourceLeveledDate" type="date" from="2023-06-02T12:00:00.000Z" resolved="yes"/>
+    <change idref="t3" attribute="startConstraintDate" type="date" from="2023-06-03T12:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t3" attribute="resourceLeveledDate" type="date" from="2023-06-03T12:00:00.000Z" resolved="yes"/>
+    <change idref="t4" attribute="startConstraintDate" type="date" from="2023-06-04T12:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t4" attribute="resourceLeveledDate" type="date" from="2023-06-04T12:00:00.000Z" resolved="yes"/>
+    <change idref="t5" attribute="startConstraintDate" type="date" from="2023-06-05T12:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t5" attribute="resourceLeveledDate" type="date" from="2023-06-05T12:00:00.000Z" resolved="yes"/>
+    <change idref="t6" attribute="startConstraintDate" type="date" from="2023-06-09T12:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t6" attribute="resourceLeveledDate" type="date" from="2023-06-09T12:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:37:21.583Z" timestamp="2012-03-03T23:37:21.583Z">
+    <change idref="t15" to="t-1" to-position="2" resolved="yes">
+      <change idref="t15" attribute="Text1" type="string" to=""/>
+      <change idref="t15" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t15" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t15" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t23" to="t-1" to-position="3" resolved="yes">
+      <change idref="t23" attribute="Text1" type="string" to=""/>
+      <change idref="t23" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t23" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t23" attribute="title" type="string" to="Construction"/>
+    </change>
+    <change idref="t34" to="t-1" to-position="4" resolved="yes">
+      <change idref="t34" attribute="Text1" type="string" to=""/>
+      <change idref="t34" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t34" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t34" attribute="title" type="string" to="Implementation and testing"/>
+    </change>
+    <change idref="t43" to="t-1" to-position="5" resolved="yes">
+      <change idref="t43" attribute="Text1" type="string" to=""/>
+      <change idref="t43" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t43" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t43" attribute="title" type="string" to="Publicity"/>
+    </change>
+    <change idref="t49" to="t-1" to-position="6" resolved="yes">
+      <change idref="t49" attribute="Text1" type="string" to=""/>
+      <change idref="t49" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t49" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t49" attribute="title" type="string" to="Operations and support"/>
+    </change>
+    <change idref="t24" to="t23" to-position="0" resolved="yes">
+      <change idref="t24" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t24" attribute="resourceLeveledDate" type="date" to="2024-03-02T13:00:00.000Z"/>
+      <change idref="t24" attribute="startConstraintDate" type="date" to="2024-03-02T13:00:00.000Z"/>
+      <change idref="t24" attribute="title" type="string" to="Register domain and hosting"/>
+    </change>
+    <change idref="t25" to="t23" to-position="1" resolved="yes">
+      <change idref="t25" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t25" attribute="resourceLeveledDate" type="date" to="2024-03-03T13:00:00.000Z"/>
+      <change idref="t25" attribute="startConstraintDate" type="date" to="2024-03-03T13:00:00.000Z"/>
+      <change idref="t25" attribute="title" type="string" to="Upload wp files"/>
+    </change>
+    <change idref="t26" to="t23" to-position="2" resolved="yes">
+      <change idref="t26" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t26" attribute="resourceLeveledDate" type="date" to="2024-03-04T13:00:00.000Z"/>
+      <change idref="t26" attribute="startConstraintDate" type="date" to="2024-03-04T13:00:00.000Z"/>
+      <change idref="t26" attribute="title" type="string" to="Install framework"/>
+    </change>
+    <change idref="t27" to="t23" to-position="3" resolved="yes">
+      <change idref="t27" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t27" attribute="effort" type="real" from="28800" to="316800"/>
+      <change idref="t27" attribute="resourceLeveledDate" type="date" to="2024-03-05T13:00:00.000Z"/>
+      <change idref="t27" attribute="startConstraintDate" type="date" to="2024-03-05T13:00:00.000Z"/>
+      <change idref="t27" attribute="title" type="string" to="Customize html (framework)"/>
+    </change>
+    <change idref="t28" to="t23" to-position="4" resolved="yes">
+      <change idref="t28" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t28" attribute="effort" type="real" from="28800" to="403200"/>
+      <change idref="t28" attribute="resourceLeveledDate" type="date" to="2024-03-16T12:00:00.000Z"/>
+      <change idref="t28" attribute="startConstraintDate" type="date" to="2024-03-16T12:00:00.000Z"/>
+      <change idref="t28" attribute="title" type="string" to="Customize css (framework)"/>
+    </change>
+    <change idref="t29" to="t23" to-position="5" resolved="yes">
+      <change idref="t29" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t29" attribute="effort" type="real" from="28800" to="201600"/>
+      <change idref="t29" attribute="resourceLeveledDate" type="date" to="2024-04-20T12:00:00.000Z"/>
+      <change idref="t29" attribute="startConstraintDate" type="date" to="2024-04-20T12:00:00.000Z"/>
+      <change idref="t29" attribute="title" type="string" to="Researsch and implement pluging"/>
+    </change>
+    <change idref="t30" to="t23" to-position="6" resolved="yes">
+      <change idref="t30" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t30" attribute="effort" type="real" from="28800" to="403200"/>
+      <change idref="t30" attribute="resourceLeveledDate" type="date" to="2024-04-27T12:00:00.000Z"/>
+      <change idref="t30" attribute="startConstraintDate" type="date" to="2024-04-27T12:00:00.000Z"/>
+      <change idref="t30" attribute="title" type="string" to="Edit plugins"/>
+    </change>
+    <change idref="t31" to="t23" to-position="7" resolved="yes">
+      <change idref="t31" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t31" attribute="effort" type="real" from="28800" to="604800"/>
+      <change idref="t31" attribute="resourceLeveledDate" type="date" to="2024-05-04T12:00:00.000Z"/>
+      <change idref="t31" attribute="startConstraintDate" type="date" to="2024-05-04T12:00:00.000Z"/>
+      <change idref="t31" attribute="title" type="string" to="Code functional requirements in php (if not available through plugins)"/>
+    </change>
+    <change idref="t32" to="t23" to-position="8" resolved="yes">
+      <change idref="t32" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t32" attribute="effort" type="real" from="28800" to="403200"/>
+      <change idref="t32" attribute="resourceLeveledDate" type="date" to="2024-05-11T12:00:00.000Z"/>
+      <change idref="t32" attribute="startConstraintDate" type="date" to="2024-05-11T12:00:00.000Z"/>
+      <change idref="t32" attribute="title" type="string" to="Customize html (child pages)"/>
+    </change>
+    <change idref="t33" to="t23" to-position="9" resolved="yes">
+      <change idref="t33" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t33" attribute="effort" type="real" from="28800" to="403200"/>
+      <change idref="t33" attribute="resourceLeveledDate" type="date" to="2024-05-25T12:00:00.000Z"/>
+      <change idref="t33" attribute="startConstraintDate" type="date" to="2024-05-25T12:00:00.000Z"/>
+      <change idref="t33" attribute="title" type="string" to="Customize css (child pages)"/>
+    </change>
+    <change idref="t35" to="t34" to-position="0" resolved="yes">
+      <change idref="t35" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t35" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t35" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t35" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t35" attribute="title" type="string" to="Implement design changes"/>
+    </change>
+    <change idref="t36" to="t34" to-position="1" resolved="yes">
+      <change idref="t36" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t36" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t36" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t36" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t36" attribute="title" type="string" to="Implement device resonsiveness changes"/>
+    </change>
+    <change idref="t37" to="t34" to-position="2" resolved="yes">
+      <change idref="t37" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t37" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t37" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t37" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t37" attribute="title" type="string" to="Implement functional requirement changes"/>
+    </change>
+    <change idref="t38" to="t34" to-position="3" resolved="yes">
+      <change idref="t38" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t38" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t38" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t38" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t38" attribute="title" type="string" to="Peer review"/>
+    </change>
+    <change idref="t39" to="t34" to-position="4" resolved="yes">
+      <change idref="t39" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t39" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t39" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t39" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t39" attribute="title" type="string" to="Test browser rendering"/>
+    </change>
+    <change idref="t40" to="t34" to-position="5" resolved="yes">
+      <change idref="t40" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t40" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t40" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t40" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t40" attribute="title" type="string" to="Test functional requirements"/>
+    </change>
+    <change idref="t41" to="t34" to-position="6" resolved="yes">
+      <change idref="t41" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t41" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t41" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t41" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t41" attribute="title" type="string" to="Test mobile device rendering"/>
+    </change>
+    <change idref="t42" to="t34" to-position="7" resolved="yes">
+      <change idref="t42" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t42" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t42" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t42" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t42" attribute="title" type="string" to="Test screen resolutions"/>
+    </change>
+    <change idref="t44" to="t43" to-position="0" resolved="yes">
+      <change idref="t44" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t44" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t44" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t44" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t44" attribute="title" type="string" to="Attend local concerts and festivals to promote the site"/>
+    </change>
+    <change idref="t45" to="t43" to-position="1" resolved="yes">
+      <change idref="t45" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t45" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t45" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t45" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t45" attribute="title" type="string" to="Email musician contacts inviting them to contribute to the site expaining how it works and encouraging them to share"/>
+    </change>
+    <change idref="t46" to="t43" to-position="2" resolved="yes">
+      <change idref="t46" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t46" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t46" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t46" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t46" attribute="title" type="string" to="Print business cards"/>
+    </change>
+    <change idref="t47" to="t43" to-position="3" resolved="yes">
+      <change idref="t47" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t47" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t47" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t47" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t47" attribute="title" type="string" to="Record screencast"/>
+    </change>
+    <change idref="t48" to="t43" to-position="4" resolved="yes">
+      <change idref="t48" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t48" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t48" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t48" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t48" attribute="title" type="string" to="Send press release to canadian music media"/>
+    </change>
+    <change idref="t50" to="t49" to-position="0" resolved="yes">
+      <change idref="t50" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t50" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t50" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t50" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t50" attribute="title" type="string" to="Monitor user generated posts"/>
+    </change>
+    <change idref="t51" to="t49" to-position="1" resolved="yes">
+      <change idref="t51" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t51" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t51" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t51" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t51" attribute="title" type="string" to="Provide user support"/>
+    </change>
+    <change idref="t16" to="t15" to-position="0" resolved="yes">
+      <change idref="t16" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t16" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t16" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t16" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t16" attribute="title" type="string" to="Design business cards"/>
+    </change>
+    <change idref="t17" to="t15" to-position="1" resolved="yes">
+      <change idref="t17" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t17" attribute="effort" type="real" from="28800" to="115200"/>
+      <change idref="t17" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t17" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t17" attribute="title" type="string" to="Colour scheme"/>
+    </change>
+    <change idref="t18" to="t15" to-position="2" resolved="yes">
+      <change idref="t18" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t18" attribute="effort" type="real" from="28800" to="201600"/>
+      <change idref="t18" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t18" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t18" attribute="title" type="string" to="Develop visual metaphor (theme)"/>
+    </change>
+    <change idref="t19" to="t15" to-position="3" resolved="yes">
+      <change idref="t19" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t19" attribute="effort" type="real" from="28800" to="201600"/>
+      <change idref="t19" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t19" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t19" attribute="title" type="string" to="Logo"/>
+    </change>
+    <change idref="t20" to="t15" to-position="4" resolved="yes">
+      <change idref="t20" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t20" attribute="effort" type="real" from="28800" to="201600"/>
+      <change idref="t20" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t20" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t20" attribute="title" type="string" to="Wireframe page mockups"/>
+    </change>
+    <change idref="t21" to="t15" to-position="5" resolved="yes">
+      <change idref="t21" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t21" attribute="effort" type="real" from="28800" to="201600"/>
+      <change idref="t21" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t21" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t21" attribute="title" type="string" to="Visual content"/>
+    </change>
+    <change idref="t22" to="t15" to-position="6" resolved="yes">
+      <change idref="t22" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t22" attribute="effort" type="real" from="28800" to="403200"/>
+      <change idref="t22" attribute="resourceLeveledDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t22" attribute="startConstraintDate" type="date" to="2023-12-02T13:00:00.000Z"/>
+      <change idref="t22" attribute="title" type="string" to="Photoshop mockup"/>
+    </change>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:41:55.763Z" timestamp="2012-03-03T23:41:55.763Z">
+    <change idref="t1" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-04-01T12:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:45:17.647Z" timestamp="2012-03-03T23:45:17.647Z">
+    <change idref="t15" attribute="startConstraintDate" type="date" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t16" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t16" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t17" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t17" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t18" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t18" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t19" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t19" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t20" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t20" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t21" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t21" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t22" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t22" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t23" attribute="startConstraintDate" type="date" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t24" attribute="startConstraintDate" type="date" from="2024-03-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t24" attribute="resourceLeveledDate" type="date" from="2024-03-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t25" attribute="startConstraintDate" type="date" from="2024-03-03T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t25" attribute="resourceLeveledDate" type="date" from="2024-03-03T13:00:00.000Z" resolved="yes"/>
+    <change idref="t26" attribute="startConstraintDate" type="date" from="2024-03-04T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t26" attribute="resourceLeveledDate" type="date" from="2024-03-04T13:00:00.000Z" resolved="yes"/>
+    <change idref="t27" attribute="startConstraintDate" type="date" from="2024-03-05T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t27" attribute="resourceLeveledDate" type="date" from="2024-03-05T13:00:00.000Z" resolved="yes"/>
+    <change idref="t28" attribute="startConstraintDate" type="date" from="2024-03-16T12:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t28" attribute="resourceLeveledDate" type="date" from="2024-03-16T12:00:00.000Z" resolved="yes"/>
+    <change idref="t29" attribute="startConstraintDate" type="date" from="2024-04-20T12:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t29" attribute="resourceLeveledDate" type="date" from="2024-04-20T12:00:00.000Z" resolved="yes"/>
+    <change idref="t30" attribute="startConstraintDate" type="date" from="2024-04-27T12:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t30" attribute="resourceLeveledDate" type="date" from="2024-04-27T12:00:00.000Z" resolved="yes"/>
+    <change idref="t31" attribute="startConstraintDate" type="date" from="2024-05-04T12:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t31" attribute="resourceLeveledDate" type="date" from="2024-05-04T12:00:00.000Z" resolved="yes"/>
+    <change idref="t32" attribute="startConstraintDate" type="date" from="2024-05-11T12:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t32" attribute="resourceLeveledDate" type="date" from="2024-05-11T12:00:00.000Z" resolved="yes"/>
+    <change idref="t33" attribute="startConstraintDate" type="date" from="2024-05-25T12:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t33" attribute="resourceLeveledDate" type="date" from="2024-05-25T12:00:00.000Z" resolved="yes"/>
+    <change idref="t34" attribute="startConstraintDate" type="date" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t35" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t35" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t36" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t36" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t37" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t37" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t38" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t38" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t39" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t39" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t40" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t40" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t41" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t41" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t42" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t42" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t43" attribute="startConstraintDate" type="date" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t44" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t44" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t45" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t45" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t46" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t46" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t47" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t47" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t48" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t48" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t49" attribute="startConstraintDate" type="date" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t50" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t50" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+    <change idref="t51" attribute="startConstraintDate" type="date" from="2023-12-02T13:00:00.000Z" to="2012-04-01T04:00:00.000Z" resolved="yes"/>
+    <change idref="t51" attribute="resourceLeveledDate" type="date" from="2023-12-02T13:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:50:15.895Z" timestamp="2012-03-03T23:50:15.895Z">
+    <change idref="t3" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-04-02T04:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:52:18.718Z" timestamp="2012-03-03T23:52:18.718Z">
+    <change idref="t4" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-04-03T12:00:00.000Z" resolved="yes"/>
+    <change idref="t5" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-04-04T12:00:00.000Z" resolved="yes"/>
+    <change idref="t6" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-04-08T12:00:00.000Z" resolved="yes"/>
+    <change idref="t7" attribute="startConstraintDate" type="date" from="2012-04-05T12:00:00.000Z" to="2012-04-08T12:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:57:14.553Z" timestamp="2012-03-03T23:57:14.553Z">
+    <change idref="t10" attribute="startConstraintDate" type="date" from="2012-04-05T12:00:00.000Z" to="2012-04-15T12:00:00.000Z" resolved="yes"/>
+    <change idref="t11" attribute="startConstraintDate" type="date" from="2012-04-05T12:00:00.000Z" to="2012-04-18T12:00:00.000Z" resolved="yes"/>
+    <change idref="t12" attribute="startConstraintDate" type="date" from="2012-04-05T12:00:00.000Z" to="2012-04-29T12:00:00.000Z" resolved="yes"/>
+    <change idref="t13" attribute="startConstraintDate" type="date" from="2012-04-05T12:00:00.000Z" to="2012-07-01T12:00:00.000Z" resolved="yes"/>
+    <change idref="t14" attribute="startConstraintDate" type="date" from="2012-04-05T12:00:00.000Z" to="2012-04-15T12:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:59:27.112Z" timestamp="2012-03-03T23:59:27.112Z">
+    <change idref="t15" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-04-29T12:00:00.000Z" resolved="yes"/>
+    <change idref="t16" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-03-10T13:00:00.000Z" resolved="yes"/>
+    <change idref="t19" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-05-06T12:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-04T00:01:43.337Z" timestamp="2012-03-04T00:01:43.337Z">
+    <change idref="t20" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-05-06T12:00:00.000Z" resolved="yes"/>
+    <change idref="t21" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-05-13T12:00:00.000Z" resolved="yes"/>
+    <change idref="t22" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-05-20T12:00:00.000Z" resolved="yes"/>
+    <change idref="t23" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-06-03T12:00:00.000Z" resolved="yes"/>
+    <change idref="t25" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-06-04T12:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-04T00:03:46.874Z" timestamp="2012-03-04T00:03:46.874Z">
+    <change idref="t26" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-06-05T12:00:00.000Z" resolved="yes"/>
+    <change idref="t27" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-06-06T12:00:00.000Z" resolved="yes"/>
+    <change idref="t28" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-06-17T12:00:00.000Z" resolved="yes"/>
+    <change idref="t29" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-07-22T12:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-04T00:05:32.330Z" timestamp="2012-03-04T00:05:32.330Z">
+    <change idref="t30" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-07-29T12:00:00.000Z" resolved="yes"/>
+    <change idref="t31" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-08-05T12:00:00.000Z" resolved="yes"/>
+    <change idref="t32" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-08-12T12:00:00.000Z" resolved="yes"/>
+    <change idref="t33" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-08-26T12:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-04T15:08:24.487Z" timestamp="2012-03-04T15:08:24.487Z">
+    <change idref="t16" attribute="startConstraintDate" type="date" from="2012-03-10T13:00:00.000Z" to="2012-07-06T12:00:00.000Z" resolved="yes"/>
+    <change idref="t29" attribute="title" type="string" from="Researsch and implement pluging" to="Researsch and implement plugin" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-04T15:11:54.002Z" timestamp="2012-03-04T15:11:54.002Z">
+    <change idref="t6" attribute="effort" type="real" from="5299200" to="6825600" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-04T15:22:57.875Z" timestamp="2012-03-04T15:22:57.875Z">
+    <change idref="t36" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-09-29T12:00:00.000Z" resolved="yes"/>
+    <change idref="t36" attribute="effort" type="real" from="230400" to="403200" resolved="yes"/>
+    <change idref="t37" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-10-12T12:00:00.000Z" resolved="yes"/>
+    <change idref="t37" attribute="effort" type="real" from="230400" to="403200" resolved="yes"/>
+    <change idref="t39" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-09-10T12:00:00.000Z" resolved="yes"/>
+    <change idref="t40" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-09-14T12:00:00.000Z" resolved="yes"/>
+    <change idref="t41" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-09-21T12:00:00.000Z" resolved="yes"/>
+    <change idref="t42" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-09-17T12:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-04T15:25:28.698Z" timestamp="2012-03-04T15:25:28.698Z">
+    <change idref="t6" attribute="effort" type="real" from="6825600" to="7430400" resolved="yes"/>
+    <change idref="t35" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-10-25T12:00:00.000Z" resolved="yes"/>
+    <change idref="t35" attribute="effort" type="real" from="230400" to="1641600" resolved="yes"/>
+    <change idref="t36" attribute="effort" type="real" from="403200" to="1699200" resolved="yes"/>
+    <change idref="t37" attribute="effort" type="real" from="403200" to="1612800" resolved="yes"/>
+    <change idref="t38" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-11-07T13:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-04T15:33:33.671Z" timestamp="2012-03-04T15:33:33.671Z">
+    <change idref="t53" to="t43" to-position="1" resolved="yes">
+      <change idref="t53" attribute="Text1" type="string" to=""/>
+      <change idref="t53" attribute="startConstraintDate" type="date" to="2012-12-21T13:00:00.000Z"/>
+      <change idref="t53" attribute="title" type="string" to="Create screencast to explain and promote the site by video"/>
+    </change>
+    <change idref="t44" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-12-11T13:00:00.000Z" resolved="yes"/>
+    <change idref="t44" attribute="effort" type="real" from="230400" to="4060800" resolved="yes"/>
+    <change idref="t45" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-12-22T13:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Ryan Frizzell (old laptop)" date="2012-03-04T16:45:14.171Z" timestamp="2012-03-04T16:45:14.171Z">
+    <change idref="t54" to="t34" to-position="4" resolved="yes">
+      <change idref="t54" attribute="Text1" type="string" to=""/>
+      <change idref="t54" attribute="effort" type="real" from="28800" to="259200"/>
+      <change idref="t54" attribute="startConstraintDate" type="date" to="2013-01-06T13:00:00.000Z"/>
+      <change idref="t54" attribute="title" type="string" to="User review"/>
+    </change>
+    <change idref="t35" attribute="effort" type="real" from="1641600" to="3513600" resolved="yes"/>
+    <change idref="t36" attribute="effort" type="real" from="1699200" to="3600000" resolved="yes"/>
+    <change idref="t37" attribute="effort" type="real" from="1612800" to="3571200" resolved="yes"/>
+    <change idref="t47" from="t43" from-position="4" resolved="yes">
+      <change idref="t47" attribute="Text1" type="string" to="To Do"/>
+      <change idref="t47" attribute="effort" type="real" from="28800" to="230400"/>
+      <change idref="t47" attribute="startConstraintDate" type="date" to="2012-04-01T04:00:00.000Z"/>
+      <change idref="t47" attribute="title" type="string" to="Record screencast"/>
+    </change>
+    <change idref="t44" attribute="effort" type="real" from="4060800" to="3196800" resolved="yes"/>
+    <change idref="t45" attribute="startConstraintDate" type="date" from="2012-12-22T13:00:00.000Z" to="2012-12-27T13:00:00.000Z" resolved="yes"/>
+    <change idref="t46" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-07-23T12:00:00.000Z" resolved="yes"/>
+    <change idref="t48" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2013-01-22T13:00:00.000Z" resolved="yes"/>
+    <change idref="t50" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-12-15T13:00:00.000Z" resolved="yes"/>
+    <change idref="t50" attribute="effort" type="real" from="230400" to="3081600" resolved="yes"/>
+    <change idref="t51" attribute="startConstraintDate" type="date" from="2012-04-01T04:00:00.000Z" to="2012-12-15T13:00:00.000Z" resolved="yes"/>
+    <change idref="t51" attribute="effort" type="real" from="230400" to="3081600" resolved="yes"/>
+    <change idref="t53" attribute="startConstraintDate" type="date" from="2012-12-21T13:00:00.000Z" to="2012-12-22T13:00:00.000Z" resolved="yes"/>
+    <change idref="t53" attribute="effort" type="real" from="28800" to="172800" resolved="yes"/>
+  </task-change-set>
+  <resource-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T22:55:40.791Z" timestamp="2012-03-03T22:55:40.791Z">
+    <change idref="r-1" attribute="isGroup" type="real" from="0" to="1" resolved="yes"/>
+    <change idref="r-1" attribute="costPerHour" type="real" from="0" resolved="yes"/>
+    <change idref="r-1" attribute="efficiency" type="real" from="1" resolved="yes"/>
+    <change idref="r-1" attribute="resourceTypeRank" type="real" from="0" to="3" resolved="yes"/>
+    <change idref="r-1" attribute="costPerUse" type="real" from="0" resolved="yes"/>
+    <change idref="r-1" attribute="unitsAvailable" type="real" from="1" resolved="yes"/>
+    <change idref="r1" to="r-1" to-position="0" resolved="yes">
+      <change idref="r1" attribute="name" type="string" to="Resource 1"/>
+    </change>
+  </resource-change-set>
+  <metadata-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T22:43:45.750Z" timestamp="2012-03-03T22:43:45.750Z">
+    <change idref="m1" attribute="taskUserDataKeyString" type="dict" from="{
+    k =     (
+    );
+}" to="{
+    k =     (
+        Text1
+    );
+}" resolved="yes"/>
+    <change idref="m1" attribute="flatNumbering" type="real" from="0" to="1" resolved="yes"/>
+    <change idref="m1" attribute="projectTitle" type="string" to="Stagebanter" resolved="yes"/>
+  </metadata-change-set>
+  <metadata-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T22:59:24.474Z" timestamp="2012-03-03T22:59:24.474Z">
+    <change idref="m1" attribute="fixedDate" type="date" to="2012-03-03T13:00:00.000Z" resolved="yes"/>
+  </metadata-change-set>
+  <metadata-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:01:43.623Z" timestamp="2012-03-03T23:01:43.623Z">
+    <change idref="m1" attribute="fixedDate" type="date" from="2012-03-03T13:00:00.000Z" to="2012-09-30T12:00:00.000Z" resolved="yes"/>
+  </metadata-change-set>
+  <metadata-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:41:55.761Z" timestamp="2012-03-03T23:41:55.761Z">
+    <change idref="m1" attribute="fixedDate" type="date" from="2012-09-30T12:00:00.000Z" to="2012-04-01T12:00:00.000Z" resolved="yes"/>
+  </metadata-change-set>
+  <metadata-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:45:17.644Z" timestamp="2012-03-03T23:45:17.644Z">
+    <change idref="m1" attribute="scheduleGranularity" type="real" from="0" to="2" resolved="yes"/>
+  </metadata-change-set>
+  <metadata-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:48:15.608Z" timestamp="2012-03-03T23:48:15.608Z">
+    <change idref="m1" attribute="baselineInfo" type="dict" from="{
+    info =     (
+    );
+}" to="{
+    info =     (
+                {
+            name = &quot;Baseline 12-04-01&quot;;
+            uuid = &quot;nUbBU_-E_TH&quot;;
+        }
+    );
+}" resolved="yes"/>
+  </metadata-change-set>
+  <metadata-change-set user="Ryan Frizzell (old laptop)" date="2012-03-03T23:49:17.538Z" timestamp="2012-03-03T23:49:17.538Z">
+    <change idref="m1" attribute="baselineInfo" type="dict" from="{
+    info =     (
+                {
+            name = &quot;Baseline 12-04-01&quot;;
+            uuid = &quot;nUbBU_-E_TH&quot;;
+        }
+    );
+}" to="{
+    info =     (
+                {
+            name = &quot;Baseline 12-04-01&quot;;
+            uuid = &quot;nUbBU_-E_TH&quot;;
+        },
+                {
+            name = &quot;Baseline 12-03-03&quot;;
+            uuid = byINpDDsYAN;
+        }
+    );
+}" resolved="yes"/>
+  </metadata-change-set>
+</changelog>

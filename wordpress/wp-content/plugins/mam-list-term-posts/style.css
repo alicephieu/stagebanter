@@ -1,0 +1,27 @@
+/*
+ * Stylesheet for plugin MAM List Term Posts
+*/
+
+.mltp-letter-group { width: 100%; }
+.mltp-letter-cell-row { float: left; }
+.mltp-letter-cell {
+   background: #e0e0e0;
+   float: left;
+   font-weight: bold;
+   height: 2em;
+   margin-bottom: 8px;
+   min-width: 3em;
+   padding-top: 8px;
+   text-align: center;
+}
+.mltp-row-cells { width: 90%; float: right; }
+.mltp-title-cell { float: left; overflow: hidden; margin-bottom: 8px; }
+.mltp-title-cell-1 { width: 98%; }
+.mltp-title-cell-2 { width: 48%; }
+.mltp-title-cell-3 { width: 32%; }
+.mltp-title-cell-4 { width: 23%; }
+.mltp-continued-from,
+.mltp-continued-on {
+    padding: 0 2em;
+}
+.mltp-clear { clear: both; }

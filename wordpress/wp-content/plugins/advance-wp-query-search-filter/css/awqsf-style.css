@@ -1,0 +1,32 @@
+/*
+Default style for WP Query Search Filter plugin
+
+Simply refer to this to styling your form
+
+
+*/
+
+
+/*the form div*/
+#aqsfformid{border:1px solid #ccc}
+#awqsf_search_form{padding:5px;border:1px #ccc solid;}
+/*form title*/
+span.form_title{font-weight:bold}
+/*each input div*/
+.awqsf_box {margin-bottom:10px;}
+/*dropdown box width*/
+.awqsf_box select {width:90%;}
+/*Label of each input*/
+#awqsf_search_form label{font-weight:bold;font:12px;float:left}
+/*text search input width*/
+input#awqsf_keyword{width:100%}
+/*id of search button*/
+#awqsf_submit{}
+/*search button div and label*/
+p.awqsf-button{text-align:center;width:90%;}
+/*Checkbox field*/
+label.taxcheckbox, label.cmfcheckbox{float:left;width:100%;}
+/*radio field*/
+label.taxradio, label.cmfradio{float:left;width:100%;}
+/*text search field*/
+label.awqsf-label-keyword{}

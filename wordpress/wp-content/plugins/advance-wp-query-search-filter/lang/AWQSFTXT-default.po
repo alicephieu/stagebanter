@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advance WP Query Search Filter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-18 23:45+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: tc <geekykuan@ymail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: advance-wp-sf2.php:73
+#: advance-wp-sf2.php:74
+msgid "Advance WPSF"
+msgstr ""
+
+#: advance-wp-sf2.php:85
+msgid "Advance Wp Query Search Filter"
+msgstr ""
+
+#: advance-wp-sf2.php:85
+msgid "Advance WQSF"
+msgstr ""
+
+#: advance-wp-sf2.php:132
+msgid "No naughty business here, dude"
+msgstr ""
+
+#: advance-wp-sf2.php:199
+msgid "Error! Try to create again."
+msgstr ""
+
+#: advance-wp-sf2.php:224
+msgid "Error! Something wrong when updating your setting."
+msgstr ""
+
+#: advance-wp-sf2.php:334
+msgid "Error"
+msgstr ""
+
+#: advance-wp-sf2.php:342
+#: advance-wp-sf2.php:346
+msgid "Success"
+msgstr ""
+
+#: advance-wp-sf2.php:342
+msgid "New Search Filter Form Created"
+msgstr ""
+
+#: advance-wp-sf2.php:346
+msgid "Updated"
+msgstr ""
+
+#: html/add-new-awqsf.php:6
+msgid "Advance WP Query Search Filter"
+msgstr ""
+
+#: html/add-new-awqsf.php:6
+msgid "Add New Search Form"
+msgstr ""
+
+#: html/add-new-awqsf.php:17
+msgid "Copy this code and paste it into your post, page or text widget content."
+msgstr ""
+
+#: html/add-new-awqsf.php:28
+msgid "Form Title"
+msgstr ""
+
+#: modules/awqsf_post_type.php:1
+msgid "Post Type"
+msgstr ""
+
+#: modules/awqsf_post_type.php:4
+msgid "Choose the post type you want to include in the search"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:1
+#: modules/awqsf_taxonomy.php:22
+#: modules/awqsf_taxonomy.php:34
+msgid "Taxonomy"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:5
+msgid "Boolean relationship between the taxonomy queries"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:13
+msgid "AND - Must meet all taxonomy search."
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:14
+msgid "OR - Either one of the taxonomy search is meet."
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:17
+#: modules/add_taxo_form.php:52
+msgid "Add Taxonomy"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:23
+#: modules/awqsf_taxonomy.php:35
+#: modules/add_cmf_form.php:18
+#: modules/add_taxo_form.php:24
+#: modules/awqsf_cmf.php:25
+#: modules/awqsf_cmf.php:36
+msgid "Label"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:24
+#: modules/awqsf_taxonomy.php:36
+#: modules/awqsf_cmf.php:26
+#: modules/awqsf_cmf.php:37
+msgid "\"Search All\" Text"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:25
+#: modules/awqsf_taxonomy.php:37
+msgid "Hide Empty?"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:26
+#: modules/awqsf_taxonomy.php:38
+msgid "Exculde ID"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:27
+#: modules/awqsf_taxonomy.php:39
+#: modules/awqsf_cmf.php:29
+#: modules/awqsf_cmf.php:40
+msgid "Display Type"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:28
+#: modules/awqsf_taxonomy.php:40
+#: modules/awqsf_cmf.php:30
+#: modules/awqsf_cmf.php:41
+msgid "Remove?"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:61
+#: modules/add_taxo_form.php:8
+msgid "category"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:99
+#: modules/awqsf_cmf.php:99
+msgid "Remove"
+msgstr ""
+
+#: modules/awqsf_taxonomy.php:111
+#: modules/awqsf_cmf.php:110
+msgid "*Drag and Drop to reorder your table row. The table row order indicates the order of the search form fields in the frontend. "
+msgstr ""
+
+#: modules/add_cmf_form.php:4
+msgid "Meta Field Setting"
+msgstr ""
+
+#: modules/add_cmf_form.php:5
+msgid "Meta Key"
+msgstr ""
+
+#: modules/add_cmf_form.php:9
+msgid "Choose a meta key"
+msgstr ""
+
+#: modules/add_cmf_form.php:20
+#: modules/add_taxo_form.php:26
+msgid "To be displayed in the search form"
+msgstr ""
+
+#: modules/add_cmf_form.php:23
+#: modules/add_taxo_form.php:29
+msgid "Text For 'Search All' Options"
+msgstr ""
+
+#: modules/add_cmf_form.php:25
+msgid "eg, All prices, All weight"
+msgstr ""
+
+#: modules/add_cmf_form.php:28
+#: modules/awqsf_cmf.php:27
+#: modules/awqsf_cmf.php:38
+msgid "Compare"
+msgstr ""
+
+#: modules/add_cmf_form.php:36
+msgid "Operator to test. Use it carefully. If you choose 'BETWEEN', then your options should be range."
+msgstr ""
+
+#: modules/add_cmf_form.php:38
+#, php-format
+msgid "More about compare, please visit <a href='%s' target='_blank'>here</a>"
+msgstr ""
+
+#: modules/add_cmf_form.php:43
+#: modules/add_taxo_form.php:45
+msgid "Display Type?"
+msgstr ""
+
+#: modules/add_cmf_form.php:44
+#: modules/awqsf_cmf.php:94
+msgid "Drop Down"
+msgstr ""
+
+#: modules/add_cmf_form.php:45
+#: modules/awqsf_cmf.php:95
+msgid "Radio Button"
+msgstr ""
+
+#: modules/add_cmf_form.php:46
+#: modules/awqsf_cmf.php:96
+msgid "Checkbox"
+msgstr ""
+
+#: modules/add_cmf_form.php:47
+msgid "* Warning! Checkbox only work with \"IN\" and \"NOT IN\" compare operator."
+msgstr ""
+
+#: modules/add_cmf_form.php:52
+msgid "Dropdown Options"
+msgstr ""
+
+#: modules/add_cmf_form.php:53
+msgid "Generate Value"
+msgstr ""
+
+#: modules/add_cmf_form.php:54
+msgid "Based on the meta key selected above"
+msgstr ""
+
+#: modules/add_cmf_form.php:55
+msgid "Your options should be exactly same you inserted in your posts. Use '|' to separating your option. For range option, using '-' to define the range. "
+msgstr ""
+
+#: modules/add_cmf_form.php:56
+msgid "eg: for normal option value 1 | value 2 | value 3...etc"
+msgstr ""
+
+#: modules/add_cmf_form.php:57
+msgid "eg: for range option 1-100 | 101-200 | 201-300...etc"
+msgstr ""
+
+#: modules/add_cmf_form.php:62
+msgid "Add Custom Field"
+msgstr ""
+
+#: modules/add_taxo_form.php:3
+msgid "Taxonomy Details"
+msgstr ""
+
+#: modules/add_taxo_form.php:6
+msgid "Select Taxonomy"
+msgstr ""
+
+#: modules/add_taxo_form.php:31
+msgid "eg, All cities, All genres"
+msgstr ""
+
+#: modules/add_taxo_form.php:34
+msgid "Hide Empty Terms?"
+msgstr ""
+
+#: modules/add_taxo_form.php:37
+msgid "Empty terms are the terms that no posts assigned to them. "
+msgstr ""
+
+#: modules/add_taxo_form.php:40
+msgid "Exculde Term ID"
+msgstr ""
+
+#: modules/add_taxo_form.php:42
+msgid "Enter the term's ID that you want to exclude. Seperate by comma ',' "
+msgstr ""
+
+#: modules/awqsf_cmf.php:1
+msgid "Custom Meta Field"
+msgstr ""
+
+#: modules/awqsf_cmf.php:5
+msgid "Boolean relationship between the meta queries"
+msgstr ""
+
+#: modules/awqsf_cmf.php:12
+msgid "AND - Must meet all meta field search."
+msgstr ""
+
+#: modules/awqsf_cmf.php:13
+msgid "OR - Either one of the meta field search is meet."
+msgstr ""
+
+#: modules/awqsf_cmf.php:18
+msgid "Add Custom Meta"
+msgstr ""
+
+#: modules/awqsf_cmf.php:24
+#: modules/awqsf_cmf.php:35
+msgid "Meta key"
+msgstr ""
+
+#: modules/awqsf_cmf.php:28
+#: modules/awqsf_cmf.php:39
+msgid "Options"
+msgstr ""
+
+#: modules/misc.php:5
+msgid "Search by Keyword"
+msgstr ""
+
+#: modules/misc.php:16
+msgid "Add String Search?"
+msgstr ""
+
+#: modules/misc.php:17
+msgid "Enabling string search"
+msgstr ""
+
+#: modules/misc.php:18
+msgid "This will add string search in the form. Note that when user using this to search, the taxonomy and custom meta filter that defined above will not be used. However, the search will still go through the post type defined above."
+msgstr ""
+
+#: modules/misc.php:19
+msgid "Label for string search."
+msgstr ""
+
+#: modules/misc.php:25
+msgid "Result Page Setting"
+msgstr ""
+
+#: modules/misc.php:26
+msgid "Sorting Meta Key."
+msgstr ""
+
+#: modules/misc.php:35
+msgid "Insert the meta key that will be used for the result sorting. Leave empty will using the default 'date' value for sorting."
+msgstr ""
+
+#: modules/misc.php:37
+msgid "Meta Value Type"
+msgstr ""
+
+#: modules/misc.php:38
+msgid "Words"
+msgstr ""
+
+#: modules/misc.php:39
+msgid "Numeric"
+msgstr ""
+
+#: modules/misc.php:40
+msgid "What is the meta value type of the sorting meta key? eg. sorting meta key = 'price', then the meta value type should be numeric. Leave it blank if your sorting meta key is empty."
+msgstr ""
+
+#: modules/misc.php:42
+msgid "Sorting Order"
+msgstr ""
+
+#: modules/misc.php:43
+msgid "Descending"
+msgstr ""
+
+#: modules/misc.php:44
+msgid "Ascending"
+msgstr ""
+
+#: modules/misc.php:45
+msgid "The search result sorting order. Default is descending"
+msgstr ""
+
+#: modules/misc.php:47
+msgid "Results per Page"
+msgstr ""
+
+#: modules/misc.php:49
+msgid "How many posts shows at each result page?"
+msgstr ""
+
+#: modules/misc.php:51
+msgid "Search Button Text"
+msgstr ""
+
+#: modules/misc.php:53
+msgid "The text of the submit button?"
+msgstr ""
+
+#: includes/class-awqsf-form-table.php:45
+msgid "Form"
+msgstr ""
+
+#: includes/class-awqsf-form-table.php:46
+msgid "Forms"
+msgstr ""
+
+#: includes/class-awqsf-form-table.php:57
+msgid "No Advance WP Query Search Filter Form found, dude."
+msgstr ""
+
+#: includes/class-awqsf-form-table.php:103
+msgid "Delete"
+msgstr ""
+

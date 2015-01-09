@@ -1,0 +1,3 @@
+*USE in custom fields - check saving of custom fields works
+*apply filters to all places where we get posts or taxonomies
+*fix warnings and smalls bugs
